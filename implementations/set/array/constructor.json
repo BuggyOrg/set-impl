@@ -1,0 +1,21 @@
+{
+    "componentId": "Array0",
+    "version": "1.0.0",
+    "ports": [
+    {
+        "port": "output",
+        "kind": "output",
+        "type": {
+        "name": "Array",
+        "data": [
+            "a"
+        ]
+        }
+    }
+    ],
+    "atomic": true,
+    "type": true,
+    "metaInformation": {
+    "isConstructor": true
+    }
+}
